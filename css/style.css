@@ -1,0 +1,19 @@
+body{
+  text-align: center;
+  margin-top: 100px;
+}
+
+h2{
+  color: #8b1e2e;
+}
+
+.content{
+  position: relative;
+  display: block;
+  top: 0;
+  left: 460px;
+  text-align: center;
+  width: 400px;
+  height: 300px;
+  background-color: #8b1e2e;
+}
